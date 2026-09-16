@@ -1,0 +1,4 @@
+airport_code,completion_rate,average_eta,active_drivers,driver_cancellation_rate,queue_size,surge_multiplier,request_volume,timestamp
+SFO,0.71,18.5,120,0.19,180,1.2,450,2026-09-16T16:00:00Z
+LAX,0.88,12.0,310,0.08,95,1.0,620,2026-09-16T16:00:00Z
+JFK,0.79,15.2,210,0.14,140,1.1,380,2026-09-16T16:00:00Z

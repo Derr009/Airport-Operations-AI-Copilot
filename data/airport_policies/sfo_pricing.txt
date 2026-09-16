@@ -1,0 +1,11 @@
+San Francisco International Airport (SFO) - Pricing & Surge Rules
+
+Surge Multiplier Limits:
+- The default surge multiplier for SFO starts at 1.0x.
+- Maximum allowable surge multiplier under normal operations is 1.5x.
+- Any surge request exceeding 1.3x up to 1.5x requires automated risk classification.
+- Dynamic surge exceeding 1.5x is strictly prohibited by airport regulatory policy.
+
+Approval Escalation Requirements:
+- Surge adjustments from 1.0x to 1.2x: Automatically approved by algorithm during peak hours.
+- Surge adjustments from 1.3x to 1.5x: Requires explicit Human Operations Manager Approval.

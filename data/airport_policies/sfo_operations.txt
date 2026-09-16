@@ -1,0 +1,11 @@
+San Francisco International Airport (SFO) - Operations & Queue Policy
+
+Queue Rules & Zone Management:
+- Drivers must remain in the designated Staging Lot on North Access Road to receive trip requests.
+- Leaving the designated queue zone automatically forfeits queue placement.
+- Queue abandonment occurs if a driver leaves the staging area for more than 5 minutes without an active trip assignment.
+
+Pickup & Drop-off Rules:
+- Pickup is strictly limited to Level 5 of the Domestic Garage.
+- Drop-offs are permitted at the departures curb on upper levels 1–3.
+- Unattended vehicles at curbside will receive immediate citations and account suspension.

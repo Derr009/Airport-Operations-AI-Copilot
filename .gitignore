@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment & Keys
+.env
+
+# Vector DB & Local Storage
+chroma_db/
+faiss_index/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/

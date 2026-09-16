@@ -1,0 +1,9 @@
+John F. Kennedy International Airport (JFK) - Pricing & Incentive Policy
+
+Surge Multiplier Limits:
+- Maximum allowable surge multiplier at JFK is 1.6x.
+- Any multiplier exceeding 1.3x requires explicit Human Approval before execution.
+
+Driver Incentives:
+- Target completion rate threshold for JFK is 80%.
+- Drivers completing 3 consecutive pickups from JFK terminals receive a flat $15 bonus.

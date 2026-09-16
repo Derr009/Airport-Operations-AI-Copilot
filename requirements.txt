@@ -1,0 +1,15 @@
+# Core Frameworks & APIs
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+groq
+
+# Vector Storage (Lightweight Cloud/Local Embeddings)
+chromadb
+
+# UI & Utilities
+pandas
+streamlit
+python-dotenv

@@ -1,0 +1,10 @@
+San Francisco International Airport (SFO) - Driver Incentives & Cancellations
+
+Driver Cancellation Rules:
+- Driver cancellation rate threshold at SFO is strictly set at 15%.
+- If cancellation rates exceed 15% during high-demand windows, automated incentive dispatch triggers.
+
+Driver Incentives:
+- Low Severity (Completion Rate 75–84%): $5 per completed trip bonus for drivers queueing in the staging lot.
+- High Severity (Completion Rate <75%): $10 per completed trip bonus + priority queue positioning.
+- Maximum incentive budget per intervention window is $500 without Senior Director authorization.

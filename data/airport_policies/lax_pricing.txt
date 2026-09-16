@@ -1,0 +1,7 @@
+Los Angeles International Airport (LAX) - Pricing & Surge Policy
+
+Surge Multiplier Limits:
+- Base surge multiplier begins at 1.0x.
+- Maximum allowable surge multiplier for LAX is 1.8x during severe terminal congestion.
+- Surge multipliers between 1.4x and 1.8x require Human Operations Manager Approval.
+- Surge multipliers > 1.8x are blocked by system guardrails.
